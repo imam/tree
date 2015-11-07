@@ -1,0 +1,14 @@
+{
+  "name": "imamassi/tree",
+  "description": "Tree generator from an array/object with parent id",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Imam Assidiqqi",
+      "email": "assidiqqi.imam@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {}
+}
+
